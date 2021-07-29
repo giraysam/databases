@@ -1,12 +1,4 @@
 # ************************************************************
-# Sequel Pro SQL dump
-# Version 4541
-#
-# http://www.sequelpro.com/
-# https://github.com/sequelpro/sequelpro
-#
-# Host: 37.148.211.127 (MySQL 5.5.5-10.1.48-MariaDB-0+deb9u2)
-# Database: bakbisigorta
 # Generation Time: 2021-07-29 15:11:05 +0000
 # ************************************************************
 
